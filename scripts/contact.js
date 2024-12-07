@@ -4,7 +4,6 @@
 
 
 const contactPage = document.getElementById('contact-page');
-const submitButton = document.getElementById('submit-button');
 const form = document.querySelector('form');
 
 form.addEventListener('submit', function() {

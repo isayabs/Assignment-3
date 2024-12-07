@@ -18,8 +18,8 @@
 /********* calculate *********/
 // when a calculation is needed, set the innerHTML of the calculated-cost element to the appropriate value
 
-const fullDayCost = 35; // Full day cost
-const halfDayCost = 20; // Half day cost
+const fullDayCost = 35; 
+const halfDayCost = 20; 
 
 let selectedDays = [];
 let currentRate = fullDayCost;
